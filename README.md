@@ -47,12 +47,12 @@ Visualizes trends of supply chain costs, revenue, and profit margin over time us
 Data exploration and visualization using Python libraries. Includes heatmaps, line charts, and comparative visualizations across states and age groups.
 
 **Tech Stack**: Python, Seaborn, Altair, Matplotlib  
-📸 ![Altair - Population Percentages](assets/seaborn-altair/Altair-percentage of population groups for each year.png)  
-📸 ![Spotify Multiline](assets/seaborn-altair/Matplotlib-multiline for Spotify data.png)  
-📸 ![Seaborn Heatmap](assets/seaborn-altair/Seaborn 1-heat map of age groups percentage and states for Year 2012.png)  
-📸 ![Seaborn Sorted Age Group](seaborn-altair/Seaborn 2- sort by Under 5 years and 5 to 9 years .png)  
-📸 ![Seaborn Single State](assets/seaborn-altair/Seaborn Matplotlib for 1 state.png)  
-📸 ![Seaborn All States](assets/seaborn-altair/Seaborn Matplotlib for all state.png)
+📸 ![Altair - Population Percentages](assets/seaborn-altair/Altair-percentage%20of%20population%20groups%20for%20each%20year.png)
+📸 ![Spotify Multiline](assets/seaborn-altair/Matplotlib-multiline%20for%20Spotify%20data.png)
+📸 ![Seaborn Heatmap](assets/seaborn-altair/Seaborn%201-heat%20map%20of%20age%20groups%20percentage%20and%20states%20for%20Year%202012.png)
+📸 ![Seaborn Sorted Age Group](assets/seaborn-altair/Seaborn%202-%20sort%20by%20Under%205%20years%20and%205%20to%209%20years%20.png)
+📸 ![Seaborn Single State](assets/seaborn-altair/Seaborn%20Matplotlib%20for%201%20state.png)
+📸 ![Seaborn All States](assets/seaborn-altair/Seaborn%20Matplotlib%20for%20all%20state.png)
 
 ---
 
@@ -74,8 +74,8 @@ An experiment using Auto-GPT to process emails, summarize content, and generate 
 Multimodal experiment using OpenAI CLIP to evaluate image-text similarity and classification for cat images.
 
 **Tech Stack**: Python, CLIP, Jupyter, Torch  
-📸 ![CLIP Cosine Similarity Matrix](assets/clip-cat-example/Cosine similarity matrix of cats.png)  
-📸 ![CLIP Classification Probabilities](assets/clip-cat-example/The probability diagrams of 10 cat images.png)
+📸 ![CLIP Cosine Similarity Matrix](assets/clip-cat-example/Cosine%20similarity%20matrix%20of%20cats.png)  
+📸 ![CLIP Classification Probabilities](assets/clip-cat-example/The%20probability%20diagrams%20of%2010%20cat%20images.png)
 
 ---
 
