@@ -18,6 +18,25 @@ An interactive dashboard visualizing real estate trends in Connecticut (2000–2
 
 ---
 
+
+### ✍️ [LLM-Powered Document Q&A System](https://github.com/RanranHu168/LLM-Powered-Document-Q-A)
+A LangChain-powered chatbot that enables intelligent document interaction. Upload a PDF resume or brochure, and ask questions like “What is the candidate's work history?” or “What products does this brand offer?” with contextual retrieval.
+
+**Tech Stack**: Python, LangChain, OpenAI Embeddings, FAISS, Streamlit  
+📄 Features: document chunking, vector storage, RetrievalQA pipeline
+📸 ![Document QA Screenshot](assets/screenshot 1.gif)
+---
+
+### 🌍 [Multilingual AI Copywriting Tool](https://github.com/RanranHu168/multilingual-copywriter)
+Streamlit web app that generates product marketing copy in English, Chinese, and French. Users can customize tone (formal, enthusiastic, playful) and input product features to produce high-quality, multilingual e-commerce copy.
+
+**Tech Stack**: Python, OpenAI GPT-4, Prompt Engineering, Streamlit  
+📄 Features: tone control, language switch, multilingual prompt templates
+📸 ![Multilingual Copy Demo](assets/screenshot 2.gif)
+
+
+---
+
 ### 📧 [Email Network Visualization](https://github.com/RanranHu168/email-network-d3-visualization)
 A D3 force-directed graph showing email interactions and clusters. Features include zoom/pan, tooltips, node degree-based sizing, and k-means cluster colors.
 
