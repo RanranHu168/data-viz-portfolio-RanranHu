@@ -1,8 +1,9 @@
-# 🌟 Ranran Hu's Project Portfolio
+# 🌟 Ranran Hu's AI & Visualization Portfolio
 
-🎓 **Computer Science Master's Student @ UMass Dartmouth**  
-💡 Focused on **Data Visualization**, **AI Applications**, and **Interactive Web Dashboards**  
-📍 Based in Hartford, CT | Languages: 🇨🇳 🇺🇸 🇫🇷
+🎓 Computer Science Master's Student @ UMass Dartmouth  
+💻 Focus: LLM-Powered Applications (LangChain, GPT-4, Streamlit) & Interactive Dashboards (D3.js, ECharts, Seaborn)  
+📍 Based in Hartford, CT | Languages: 🇨🇳 🇺🇸 🇫🇷  
+📁 GitHub Repo: github.com/RanranHu168/ranranhu-ai-portfolio  
 
 ---
 
