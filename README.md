@@ -3,7 +3,7 @@
 🎓 Computer Science Master's Student @ UMass Dartmouth  
 💻 Focus: LLM-Powered Applications (LangChain, GPT-4, Streamlit) & Interactive Dashboards (D3.js, ECharts, Seaborn)  
 📍 Based in Hartford, CT | Languages: 🇨🇳 🇺🇸 🇫🇷  
-📁 GitHub Repo: github.com/RanranHu168/ranranhu-ai-portfolio  
+📁 GitHub Repo: https://github.com/RanranHu168/data-viz-portfolio-RanranHu.git
 
 ---
 
