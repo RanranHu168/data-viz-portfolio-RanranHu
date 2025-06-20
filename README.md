@@ -23,15 +23,14 @@ An interactive dashboard visualizing real estate trends in Connecticut (2000–2
 A LangChain-powered chatbot that enables intelligent document interaction. Upload a PDF resume or brochure, and ask questions like “What is the candidate's work history?” or “What products does this brand offer?” with contextual retrieval.
 
 **Tech Stack**: Python, LangChain, OpenAI Embeddings, FAISS, Streamlit  
-📄 Features: document chunking, vector storage, RetrievalQA pipeline
-📸 ![Document QA Screenshot](assets/screenshot 1.gif)
+📸 ![CT Real Estate Dashboard](assets/screenshot.gif)
+
 ---
 
 ### 🌍 [Multilingual AI Copywriting Tool](https://github.com/RanranHu168/multilingual-copywriter)
 Streamlit web app that generates product marketing copy in English, Chinese, and French. Users can customize tone (formal, enthusiastic, playful) and input product features to produce high-quality, multilingual e-commerce copy.
 
 **Tech Stack**: Python, OpenAI GPT-4, Prompt Engineering, Streamlit  
-📄 Features: tone control, language switch, multilingual prompt templates
 📸 ![Multilingual Copy Demo](assets/screenshot 2.gif)
 
 
